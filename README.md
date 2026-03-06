@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋 I'm Mikhail</h1>
-<h3 align="center">Frontend Developer | Vue | React | TypeScript</h3>
 
-<p align="center">
-Building scalable web interfaces and modern frontend architectures
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer+%7C+Vue+%7C+React+%7C+TypeScript+Building+scalable+web+interfaces+and+modern+frontend+architectures)](https://git.io/typing-svg)
 ---
 
 ## 🚀 Tech Stack
@@ -42,24 +38,6 @@ Building scalable web interfaces and modern frontend architectures
 ![WebSocket](https://img.shields.io/badge/WebSocket-orange)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
 
 ---
 
