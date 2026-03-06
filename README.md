@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Mikhail</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer+%7C+Vue+%7C+React+%7C+TypeScript+Building+scalable+web+interfaces+and+modern+frontend+architectures)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;Building+scalable+web+interfaces+and+modern+frontend+architectures;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 ---
 
 ## 🚀 Tech Stack
