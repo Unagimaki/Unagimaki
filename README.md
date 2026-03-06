@@ -1,3 +1,74 @@
-- 👋 Hi, I’m @Mikhail
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning React, Redux, Typescript
+<h1 align="center">Hi 👋 I'm Mikhail</h1>
+<h3 align="center">Frontend Developer | Vue | React | TypeScript</h3>
+
+<p align="center">
+Building scalable web interfaces and modern frontend architectures
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+![Vue](https://img.shields.io/badge/Vue-42b883?logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript)
+
+### State Management
+
+![Vuex](https://img.shields.io/badge/Vuex-42b883?logo=vue.js&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-yellow)
+![Redux](https://img.shields.io/badge/ReduxToolkit-764abc?logo=redux)
+
+### Styling
+
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38bdf8?logo=tailwindcss&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS--Modules-blue)
+
+### Build Tools
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-1C78C0?logo=webpack)
+
+### Testing
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+![NodeTest](https://img.shields.io/badge/NodeTest-339933?logo=node.js&logoColor=white)
+
+### Other
+
+![WebSocket](https://img.shields.io/badge/WebSocket-orange)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- Telegram  
+- LinkedIn  
+- Email
+
+---
+
+⭐ Always open to interesting frontend projects and collaborations
