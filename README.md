@@ -45,9 +45,7 @@
 
 ## 📫 Contact
 
-- Telegram  
-- LinkedIn  
-- Email
+- Telegram https://t.me/m1kulay
 
 ---
 
