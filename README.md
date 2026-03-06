@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;Building+scalable+web+interfaces+and+modern+frontend+architectures;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Building+scalable+web+interfaces;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
+---
 
 ## 🚀 Tech Stack
 
