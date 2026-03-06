@@ -1,5 +1,31 @@
 <h1 align="center">Hi 👋 I'm Mikhail</h1>
+## 📈 Contribution Graph
 
+[![Mikhail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)](https://github.com/USERNAME)
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mikhail%20Frontend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;Vue+%7C+React+%7C+TypeScript;Building+Scalable+Interfaces;Microfrontends+%7C+WebSocket+%7C+Modern+Architecture"/>
+</p>
+---
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vue,react,ts,js,redux,vite,webpack,tailwind,css,nodejs,vitest,eslint,git" />
+
+</p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Building+scalable+web+interfaces;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
